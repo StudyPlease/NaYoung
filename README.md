@@ -1,4 +1,4 @@
-# NaYeong
+# NaYoung
 
 <h1>나영 자료구조 복습</h1>
 
